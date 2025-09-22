@@ -1,4 +1,4 @@
-## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação e cada dia venho aprendendo mais.
+## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 
 <div style="display: inline_block"><br>
