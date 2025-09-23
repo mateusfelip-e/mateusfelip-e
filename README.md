@@ -2,6 +2,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
 </div>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="250px" />
+</div>
+
+##
+
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 _Contatos_ 📱
@@ -35,11 +41,6 @@ _Entretenimento_ 🎮
 
 ##
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="250px" />
-</div>
-
-##
 
 
 
