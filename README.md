@@ -1,8 +1,25 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=636B2F"/>
+
+<br>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Mateus Felipe</b>
+  </samp>
+</div>
+
+<div align="center" width="100%"
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=636B2F&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
+</div>
 
 _Contatos_ 📱
 <div>
