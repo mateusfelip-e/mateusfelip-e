@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
+</div>
+
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
+
 <div> 
   <a href="https://instagram.com/mateusfelip.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/mateus-felipee" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,3 +29,15 @@
 </div>
 
 ##
+
+<p align="left">Hello World!!</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusfelip-e/mateusfelip-e/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusfelip-e/mateusfelip-e/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusfelip-e/mateusfelip-e/output/pacman-contribution-graph.svg">
+</picture>
+
+###
