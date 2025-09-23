@@ -1,10 +1,11 @@
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 <div> 
   <a href="https://instagram.com/mateusfelip.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:SK27.Felipe@hotmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/mateus-felipee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" target="_blank"></a> 
-   <a href="https://steamcommunity.com/id/Smoakxx/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
+   <a href="https://www.linkedin.com/in/mateus-felipee" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://open.spotify.com/intl-pt" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
+   <a href = "mailto:SK27.Felipe@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://www.xbox.com/pt-BR/play/user/SmoakYz" target="_blank"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=FF00F6&color:FFF" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/Smoakxx/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
 </div>
 
 ##
