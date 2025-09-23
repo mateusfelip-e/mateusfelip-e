@@ -13,7 +13,8 @@ _Contatos_ 📱
 
 ##
 
-_Oque mais estou usando no momento_📚
+_Oque mais estou usando no momento_ 📚
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fel-Js" height="200" width="150" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Fel-HTML" height="200" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
