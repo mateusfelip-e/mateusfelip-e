@@ -5,22 +5,21 @@
    <a href="https://www.linkedin.com/in/mateus-felipee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" target="_blank"></a> 
    <a href="https://steamcommunity.com/id/Smoakxx/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
    <a href="https://www.xbox.com/pt-BR/play/user/SmoakYz" target="_blank"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=FF00F6&color:FFF" target="_blank"></a>
-
 </div>
 
+##
+
+***Oque mais estou usando no momento***
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
-  
-  ##
- 
 
+##
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="250px" />
 </div>
 
-
+##
