@@ -8,7 +8,7 @@
 
 ##
 
-<H1>Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.</H1>
+## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 _Contatos_ 📱
 <div>
@@ -35,6 +35,8 @@ _Entretenimento_ 🎮
     <a href="https://open.spotify.com/intl-pt" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
    <a href="https://www.xbox.com/pt-BR/play/user/SmoakYz" target="_blank"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=FF00F6&color:FFF" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Smoakxx/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
+  <a href="https://www.playstation.com/pt-br/playstation-network/" target="_blank"><img src="https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white" target="_blank"></a>  
+
 </div>
 
 
