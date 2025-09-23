@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/55d406d9-6ca6-44cd-af16-14cb69227f99" width="700px" />
+<img src="https://github.com/user-attachments/assets/a972bb85-c122-420a-9404-50a1026df872" width="280px" />
 </div>
 
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
@@ -28,3 +28,4 @@
 </picture>
   
 </div>
+![Image](https://)
