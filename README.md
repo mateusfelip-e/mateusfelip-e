@@ -14,10 +14,6 @@
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cf20c357-443e-4b97-94cb-46f85952449b" width="1280px" />
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
 </div>
 
@@ -50,11 +46,14 @@ _Entretenimento_ 🎮
 
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=636B2F&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+<div align="center">
+<img src="https://github.com/mateusfelip-e/mateusfelip-e/issues/4#issue-3443241547
+" width="1280px" />
 </div>
 
 ##
+
+
 
 
 
