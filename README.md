@@ -18,6 +18,10 @@
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/cf20c357-443e-4b97-94cb-46f85952449b" width="1280px" />
+</div>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusfelip-e.mateusfelip-e&"  />
 </div>
 
@@ -50,9 +54,7 @@ _Entretenimento_ 🎮
 
 </div>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="250px" />
-</div>
+
 
 ##
 
