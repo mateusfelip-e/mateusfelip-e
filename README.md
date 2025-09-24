@@ -11,10 +11,6 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=636B2F&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
-</div>
-
 ## Olá! Eu sou Mateus, sempre curti Tecnologia e hoje venho estudando mais a fundo na programação, sempre tentando aprender cada vez mais.
 
 <div align="center">
@@ -54,7 +50,9 @@ _Entretenimento_ 🎮
 
 </div>
 
-
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=636B2F&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 ##
 
