@@ -47,7 +47,7 @@ _Entretenimento_ 🎮
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="1280px" />
+<img src="https://github.com/user-attachments/assets/d477bc28-fcda-49ce-87cc-c5e01bf4d57b" width="320px" />
 </div>
 
 ##
