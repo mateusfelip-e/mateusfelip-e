@@ -24,15 +24,7 @@ _Contatos_ 📱
    <a href = "mailto:SK27.Felipe@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
-_Oque mais estou usando no momento_ 📚
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fel-Js" height="200" width="150" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Fel-HTML" height="200" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Fel-CSS" height="200" width="65" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</div>
 
 ##
 
